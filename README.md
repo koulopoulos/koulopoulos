@@ -1,15 +1,17 @@
 #### **Experience**
 
-Software Engineer [@DraftKings](https://www.draftkings.com/)
+Software Engineer @ [DraftKings](https://www.draftkings.com/)*
 
-Software Engineering Co-op [@DraftKings](https://www.draftkings.com/)
+Software Engineering Co-op @ [DraftKings](https://www.draftkings.com/)
 
-Software Engineering Co-op [@DipJar](https://www.dipjar.com/)
+Software Engineering Co-op @ [DipJar](https://www.dipjar.com/)
 
-Web Design Intern [@Wasabi](https://wasabi.com/)
+Web Design Intern @ [Wasabi](https://wasabi.com/)
+
+<sup>*current role</sup>
 
 #### **Education**
 
-Northeastern University
+BSCS @ [Northeastern University](https://www.northeastern.edu/)
 
-Northern Essex Community College
+_____ @ [Northern Essex Community College](https://www.necc.mass.edu/)
